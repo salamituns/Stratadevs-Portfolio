@@ -1,6 +1,7 @@
 {
   "name": "react_repo",
   "private": true,
+  "homepage": "https://salamituns.github.io/Stratadevs-Portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
